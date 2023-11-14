@@ -1,7 +1,6 @@
 Presentación y descripción de mi perfil
 
-<p align="left">
-<a href="https://github.com/Maynh"><img src="https://readme-typing-svg.kerokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+mi+nombre;Mayra"></a>
+
  
 
 ![-Hola-Mi-nombre-es-Mayra-Medi-14-11-2023 (1)](https://github.com/Maynh/Maynh/assets/111921764/4de1bcd9-a390-44db-90da-5b1595c5a6f4)
@@ -25,7 +24,7 @@ Presentación y descripción de mi perfil
 
 * Crear nuevos objetivos, por cumplir.
 
-#-mis-experiencias-adquiridas-en-lenguajes-y-demas-conocimientos-
+#Mis experiencia adquiridas en lenguajes y demás
 ![image](https://github.com/Maynh/Maynh/assets/111921764/b818ba7e-51e8-4f85-85a9-5ab9cb491e8d)![image](https://github.com/Maynh/Maynh/assets/111921764/6b6d0248-3f35-42c3-b436-e76883268523)
 ![image](https://github.com/Maynh/Maynh/assets/111921764/860edb0d-8f78-412a-9bb8-1a9146adbccb)
 ![image](https://github.com/Maynh/Maynh/assets/111921764/27aa7f67-9492-4cfc-a2f3-09d1388a18c8)
