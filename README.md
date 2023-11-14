@@ -1,5 +1,24 @@
-Heading level 1
-===============Presentación y descripción de mi perfil
+Presentación y descripción de mi perfil
+
+![-Hola-Mi-nombre-es-Mayra-Medi-14-11-2023 (1)](https://github.com/Maynh/Maynh/assets/111921764/4de1bcd9-a390-44db-90da-5b1595c5a6f4)
+
+
+### Actualmente me dedico a:
+
+* Reforzar conocimientos basados ​​en la programación, cibersegurida y QA.
+
+* Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.
+
+* Afianzar e Investigar distintos lenguajes de programación, con el fin de resolver los problemas que surgen a la hora de programar.
+
+* Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores,analista en ciberseguridad y testing QA.
+
+* Entrenar mi mente, para nuevos desafíos.
+
+* Crear nuevos objetivos, por cumplir.
+
+#-mis-experiencias-adquiridas-en-lenguajes-y-demas-conocimientos-
+  
 
 
 
