@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Uploading -Hola-Mi-nombre-es-Mayra-Medi-14-11-2023.gif…]()
+![image](https://github.com/Maynh/Maynh/assets/111921764/5846bd66-c2c0-47b6-a645-38140d727fb7)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
