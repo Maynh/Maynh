@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github.com/Maynh/Maynh/assets/111921764/5846bd66-c2c0-47b6-a645-38140d727fb7)
+(https://github.com/Maynh/Maynh/assets/111921764/5846bd66-c2c0-47b6-a645-38140d727fb7)
 
 
 - 🔭 I’m currently working on ...
