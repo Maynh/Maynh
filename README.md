@@ -25,6 +25,9 @@ Presentación y descripción de mi perfil
 * Crear nuevos objetivos, por cumplir.
 
 #Mis experiencia adquiridas en lenguajes y demás
+
+
+
 ![image](https://github.com/Maynh/Maynh/assets/111921764/b818ba7e-51e8-4f85-85a9-5ab9cb491e8d)![image](https://github.com/Maynh/Maynh/assets/111921764/6b6d0248-3f35-42c3-b436-e76883268523)
 ![image](https://github.com/Maynh/Maynh/assets/111921764/860edb0d-8f78-412a-9bb8-1a9146adbccb)
 ![image](https://github.com/Maynh/Maynh/assets/111921764/27aa7f67-9492-4cfc-a2f3-09d1388a18c8)
