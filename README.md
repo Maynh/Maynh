@@ -1,7 +1,7 @@
 Presentación y descripción de mi perfil
 
-
-https://readme-typing-svg.kerokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+mi+nombre;Mayra
+<p align="left">
+<a href="https://github.com/Maynh"><img src="https://readme-typing-svg.kerokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+mi+nombre;Mayra"></a>
 
 
 ![-Hola-Mi-nombre-es-Mayra-Medi-14-11-2023 (1)](https://github.com/Maynh/Maynh/assets/111921764/4de1bcd9-a390-44db-90da-5b1595c5a6f4)
