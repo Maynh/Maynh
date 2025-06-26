@@ -13,20 +13,17 @@ Trabajo con **HTML**, **CSS**, **JavaScript** y **WordPress**, y me especializo 
 
 
 
-### Actualmente me dedico a:
+## 🛠️ Tecnologías y herramientas
 
-* Reforzar conocimientos basados ​​en la programación, cibersegurida y QA.
-
-* Realizar un proyecto de E-commerce, junto a un equipo de desarrollo de la misma universidad.
-
-* Afianzar e Investigar distintos lenguajes de programación, con el fin de resolver los problemas que surgen a la hora de programar.
-
-* Practicar y visitar sitios y tutoriales, para conocer las experiencias vividas por otros programadores,analista en ciberseguridad y testing QA.
-
-* Entrenar mi mente, para nuevos desafíos.
-
-* Crear nuevos objetivos, por cumplir.
-
+- HTML5 / CSS3
+- JavaScript
+- WordPress
+- Python
+- PHP
+- Git & GitHub
+- Responsive Design
+- Figma (básico)
+  
 #Mis experiencia adquiridas en lenguajes y demás
 
 
