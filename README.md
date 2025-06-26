@@ -2,8 +2,11 @@ Presentación y descripción de mi perfil
 
 
  
+# 👩‍💻 Mayra Medina | Desarrolladora Web Freelance
 
-![-Hola-Mi-nombre-es-Mayra-Medi-14-11-2023 (1)](https://github.com/Maynh/Maynh/assets/111921764/4de1bcd9-a390-44db-90da-5b1595c5a6f4)
+Hola, soy **Mayra**, desarrolladora web con experiencia real creando sitios para pequeños negocios, blogs y emprendimientos.
+
+Trabajo con **HTML**, **CSS**, **JavaScript** y **WordPress**, y me especializo en construir so
 
 
 
