@@ -62,7 +62,8 @@ Trabajo con **HTML**, **CSS**, **JavaScript** y **WordPress**, y me especializo 
 
 - GitHub: [@Maynh](https://github.com/Maynh)
 - LinkedIn: [Mayra Medina](https://www.linkedin.com/in/mayra-medina-294893229/)
-- Email: carrizomarinaelizabeth@gmail.com
+- Email: webdevelopermay@gmail.com
+
 
 ---
 
