@@ -15,9 +15,11 @@ Trabajo con **HTML**, **CSS**, **JavaScript** y **WordPress**, y me especializo 
 
 ## 🛠️ Tecnologías y herramientas
 
-- HTML5 ![image](https://github.com/Maynh/Maynh/assets/111921764/3e168f8e-a23b-4f6e-ab86-29d73ce144f7)
+ ![image](https://github.com/Maynh/Maynh/assets/111921764/3e168f8e-a23b-4f6e-ab86-29d73ce144f7)
 
 - CSS3
+
+- HTML5
 - JavaScript
 - WordPress
 - Node JS.
