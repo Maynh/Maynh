@@ -13,7 +13,7 @@ Trabajo con **HTML**, **CSS**, **JavaScript** y **WordPress**, y me especializo 
 
 
 
-## 🛠️ Tecnologías y herramientas
+### 🛠️ Tecnologías y herramientas
 
 
 
@@ -31,12 +31,39 @@ Trabajo con **HTML**, **CSS**, **JavaScript** y **WordPress**, y me especializo 
 - Responsive Design
 - Figma (básico)
   
- ![image](https://github.com/Maynh/Maynh/assets/111921764/3e168f8e-a23b-4f6e-ab86-29d73ce144f7)
-![image](https://tse1.mm.bing.net/th?id=OIP.Bsr2oJPJJwC6LHzuLRuaXwHaEP&pid=Api&P=0&h=180)
+### 💼 Proyectos realizados
 
-![image](https://github.com/Maynh/Maynh/assets/111921764/b818ba7e-51e8-4f85-85a9-5ab9cb491e8d)![image](https://github.com/Maynh/Maynh/assets/111921764/6b6d0248-3f35-42c3-b436-e76883268523)
-![image](https://github.com/Maynh/Maynh/assets/111921764/860edb0d-8f78-412a-9bb8-1a9146adbccb)
-![image](https://github.com/Maynh/Maynh/assets/111921764/27aa7f67-9492-4cfc-a2f3-09d1388a18c8)
-![image](https://github.com/Maynh/Maynh/assets/111921764/9b9b4209-dd55-4103-a888-5ef593647d7b)
-![image](https://github.com/Maynh/Maynh/assets/111921764/d3e1f690-bd2b-4351-9565-3f23598eaeeb)
-![image](https://github.com/Maynh/Maynh/assets/111921764/3cf99cbe-1c73-43c0-91b8-74380775fd1d)
+### 🔹 Blog informativo con WordPress
+- Plataforma autogestionable con categorías, secciones y estructura adaptable.
+- Ideal para instituciones educativas o sitios de noticias.
+
+### 🔹 Sitio web para viandas saludables
+- HTML + CSS + JavaScript
+- Enfoque en el público móvil
+- Incluye menú semanal y sección de contacto
+
+### 🔹 Página web para tienda de ropa
+- HTML + CSS
+- Diseño visual moderno, catálogo básico, adaptable a múltiples dispositivos.
+
+---
+
+## 💡 Servicios que ofrezco
+
+- Desarrollo de landing pages
+- Creación y personalización de blogs con WordPress
+- Diseño responsive
+- Optimización de sitios existentes
+- Asesoramiento y acompañamiento digital a emprendedores
+
+---
+
+## 📫 Contacto
+
+- GitHub: [@Maynh](https://github.com/Maynh)
+- LinkedIn: [Mayra Medina](https://www.linkedin.com/in/mayra-medina-294893229/)
+- Email: carrizomarinaelizabeth@gmail.com
+
+---
+
+✨ _Gracias por visitar mi perfil. Estoy disponible para colaboraciones, proyectos freelance o propuestas laborales._
